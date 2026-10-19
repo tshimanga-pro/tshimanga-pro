@@ -21,6 +21,7 @@ Tools and deployment: Git, GitHub, Render, MongoDB Atlas
 Certificate in Software Engineering, Refactory Academy
 National Diploma in Mechanical Engineering, Ekurhuleni West College, South Africa
 Bachelor's degree in Computer Studies, Institut Supérieur de Statistique (ISS), Kinshasa
+IEEE Student Member, since 2026
 🌱 Currently
 Improving OutFlow, including moving image uploads to permanent cloud storage
 Building more full-stack projects
